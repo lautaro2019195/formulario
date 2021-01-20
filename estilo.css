@@ -1,0 +1,24 @@
+h1 {
+    color:black ;
+    background: green;
+    margin: 12px;
+    text-align: center;
+}
+
+form{
+    color:black ;
+    background: greenyellow;
+    margin: 12px;
+    text-align: center;
+    border: 0px;
+    padding: 10px auto;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+
+
+.contenido{
+    color:red;
+}
+
+
+
